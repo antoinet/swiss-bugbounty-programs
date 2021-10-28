@@ -21,6 +21,7 @@ Swiss Government | VDP | [https://www.ncsc.admin.ch/ncsc/en/home/infos-fuer/info
 SwissCovid Proximity Tracing System | VDP | [https://www.ncsc.admin.ch/ncsc/en/home/dokumentation/covid-public-security-test/infos.html](https://www.ncsc.admin.ch/ncsc/en/home/dokumentation/covid-public-security-test/infos.html) |
 Swisscom | BB | [https://www.swisscom.ch/en/about/security/bug-bounty.html](https://www.swisscom.ch/en/about/security/bug-bounty.html) |
 Swiss Post | BB | [https://www.post.ch/en/about-us/responsibility/swiss-post-bug-bounty](https://www.post.ch/en/about-us/responsibility/swiss-post-bug-bounty) |
+SWITCH (AS559) | VDP | [https://www.switch.ch/.well-known/security.txt](https://www.switch.ch/.well-known/security.txt) |
 TX Group | BB | [https://bugcrowd.com/tamedia](https://bugcrowd.com/tamedia) |
 
 
