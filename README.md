@@ -8,6 +8,7 @@ Company / Org | Type          | Visibility    | Scope        | CH Legal Safe Har
 [ABB Group](https://global.abb/group/en/technology/cyber-security/alerts-and-notifications) | VDP |  |  |  |
 [Airlock](https://hackerone.com/airlock) | BB | semi-public | selected systems |  |
 [Bexio](https://www.bexio.com/en-CH/policies/responsible-disclosure-policy) | VDP |  |  |  |
+[BLS AG](https://bugbountyhub.com/programs/bls/protected) | BB | semi-public | selected systems | yes |
 [BugBountyHub](https://bugbountyhub.com/programs/bbh) | BB | public | selected systems | yes |
 [Cern](https://home.cern/sites/home.web.cern.ch/files/security.txt) | VDP |  |  |  |
 [Covid-19 certificate system](https://www.ncsc.admin.ch/ncsc/en/home/dokumentation/covid-certificate-pst/infos.html) | VDP |  |  | yes |
@@ -17,6 +18,7 @@ Company / Org | Type          | Visibility    | Scope        | CH Legal Safe Har
 [Galaxus](https://www.galaxus.ch/.well-known/security.txt) | VDP |  |  |  |
 [Hornbach](https://www.hornbach.ch/.well-known/security.txt) | VDP |  |  |  |
 [Kistler](https://www.kistler.com/en/vulnerability-disclosure-policy/) | VDP |  |  | yes |
+[netplus.ch SA](https://bugbountyhub.com/programs/netplus/protected) | BB | semi-public | selected systems | yes |
 [Nexthink](https://www.nexthink.com/responsible-disclosure-policy/) | VDP |  |  |  |
 [Pädagogische Hochschule Zürich](https://phzh.ch/.well-known/security.txt) | VDP |  |  |  |
 [ProtonMail](https://protonmail.com/blog/protonmail-bug-bounty-program/) | BB | public | selected systems | |
