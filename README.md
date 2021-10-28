@@ -13,6 +13,7 @@ Cyon | VDP | [https://www.cyon.ch/.well-known/security.txt](https://www.cyon.ch/
 Digitec | VDP | [https://www.digitec.ch/.well-known/security.txt](https://www.digitec.ch/.well-known/security.txt) |
 Galaxus | VDP | [https://www.galaxus.ch/.well-known/security.txt](https://www.galaxus.ch/.well-known/security.txt) |
 Hornbach | VDP | [https://www.hornbach.ch/.well-known/security.txt](https://www.hornbach.ch/.well-known/security.txt) |
+Pädagogische Hochschule Zürich | VDP | [https://phzh.ch/.well-known/security.txt](https://phzh.ch/.well-known/security.txt) |
 ProtonMail | BB | [https://protonmail.com/blog/protonmail-bug-bounty-program/](https://protonmail.com/blog/protonmail-bug-bounty-program/) |
 SBB CFF FFS | VDP | [https://company.sbb.ch/en/sbb-as-business-partner/services/vulnerability-disclosure-policy.html](https://company.sbb.ch/en/sbb-as-business-partner/services/vulnerability-disclosure-policy.html) |
 SwissAnwalt | VDP | [https://swissanwalt.ch/.well-known/security.txt](https://swissanwalt.ch/.well-known/security.txt) |
