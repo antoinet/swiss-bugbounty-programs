@@ -24,6 +24,7 @@ Company / Org | Type          | Visibility    | Scope        | CH Legal Safe Har
 [ProtonMail](https://protonmail.com/blog/protonmail-bug-bounty-program/) | BB | public | selected systems | |
 [ProtonMail](https://www.bugbounty.ch/proton/) | BB | semi-public | selected systems | yes | semi-private incubator to scale up the existing, public program
 [Ringier](https://go.bugbounty.ch/programs) | BB | semi-public | selected systems | yes |
+[Roche](https://hackerone.com/roche) | BB | semi-public | selected systems |  |
 [SBB CFF FFS](https://company.sbb.ch/en/sbb-as-business-partner/services/vulnerability-disclosure-policy.html) | VDP |  |  | yes |
 [Shift Crypto](https://shiftcrypto.ch/policies/bug-bounty-policy/) | VDP |  |  |  |
 [Swiss Government](https://www.ncsc.admin.ch/ncsc/en/home/infos-fuer/infos-it-spezialisten/themen/schwachstelle-melden.html) | VDP |  |  |  |
