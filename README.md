@@ -18,6 +18,7 @@ Company / Org | Type          | Visibility    | Scope        | CH Legal Safe Har
 [Galaxus](https://www.galaxus.ch/.well-known/security.txt) | VDP |  |  |  |
 [Hornbach](https://www.hornbach.ch/.well-known/security.txt) | VDP |  |  |  |
 [Kistler](https://www.kistler.com/en/vulnerability-disclosure-policy/) | VDP |  |  | yes |
+[localsearch](https://www.swisscom.ch/en/about/security/bug-bounty.html) | BB | public | organization | | Runs as part of the Swisscom bug bounty program
 [netplus.ch SA](https://bugbountyhub.com/programs/netplus/protected) | BB | semi-public | selected systems | yes |
 [Nexthink](https://www.nexthink.com/responsible-disclosure-policy/) | VDP |  |  |  |
 [Pädagogische Hochschule Zürich](https://phzh.ch/.well-known/security.txt) | VDP |  |  |  |
