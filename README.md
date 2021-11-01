@@ -24,6 +24,7 @@ Company / Org | Type          | Visibility    | Scope        | CH Legal Safe Har
 [Pädagogische Hochschule Zürich](https://phzh.ch/.well-known/security.txt) | VDP |  |  |  |
 [ProtonMail](https://protonmail.com/blog/protonmail-bug-bounty-program/) | BB | public | selected systems | |
 [ProtonMail](https://www.bugbounty.ch/proton/) | BB | semi-public | selected systems | yes | semi-private incubator to scale up the existing, public program
+[Republik](https://bugbountyhub.com/programs/republik/protected) | BB | private | selected systems | |
 [Ringier](https://go.bugbounty.ch/programs) | BB | semi-public | selected systems | yes |
 [Roche](https://hackerone.com/roche) | BB | semi-public | selected systems |  |
 [SBB CFF FFS](https://company.sbb.ch/en/sbb-as-business-partner/services/vulnerability-disclosure-policy.html) | VDP |  |  | yes |
