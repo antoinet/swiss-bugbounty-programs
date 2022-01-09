@@ -29,6 +29,7 @@ Company / Org | Type          | Visibility    | Scope        | CH Legal Safe Har
 [Ringier](https://go.bugbounty.ch/programs) | BB | semi-public | selected systems | yes |
 [Roche](https://hackerone.com/roche) | BB | semi-public | selected systems |  |
 [SBB CFF FFS](https://company.sbb.ch/en/sbb-as-business-partner/services/vulnerability-disclosure-policy.html) | VDP |  |  | yes |
+[SCIP](https://www.scip.ch/?bugbounty) | BB | public | organization | |
 [Shift Crypto](https://shiftcrypto.ch/policies/bug-bounty-policy/) | VDP |  |  |  |
 [Swiss Government](https://www.ncsc.admin.ch/ncsc/en/home/infos-fuer/infos-it-spezialisten/themen/schwachstelle-melden.html) | VDP |  |  |  |
 [Swiss Post](https://www.post.ch/en/about-us/responsibility/swiss-post-bug-bounty) | BB | public | selected systems | yes |
