@@ -21,6 +21,7 @@ This listing is best viewed on [github pages](https://antoinet.github.io/swiss-b
 | [Ringier](https://go.bugbounty.ch/programs) | semi-public | selected systems | yes | |
 | [Roche](https://hackerone.com/roche) | semi-public | selected systems |  | |
 | [SCIP](https://www.scip.ch/?bugbounty) | public | organization | | |
+| [SIX Group](https://www.six-group.com/en/company/governance/security.html) | public | organization | yes | |
 | [Swiss Post](https://www.post.ch/en/about-us/responsibility/swiss-post-bug-bounty) | public | selected systems | yes | |
 | [Swisscom](https://www.swisscom.ch/en/about/security/bug-bounty.html) | public | organization | | |
 | [TX Group](https://bugcrowd.com/tamedia) | public | selected systems | | US based Legal Safe Harbor |
