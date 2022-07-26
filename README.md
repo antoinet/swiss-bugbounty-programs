@@ -13,8 +13,9 @@ Company / Org | Visibility    | Scope        | CH Legal Safe Harbor | Notes / Co
 [Just Eat](https://www.just-eat.ch/bugbounty) | public | selected systems | |
 [localsearch](https://www.swisscom.ch/en/about/security/bug-bounty.html) | public | organization | | Runs as part of the Swisscom bug bounty program
 [netplus.ch SA](https://app.gobugfree.com/programs/netplus/protected) | semi-public | selected systems | yes |
-[ProtonMail](https://protonmail.com/blog/protonmail-bug-bounty-program/) | public | selected systems | |
-[ProtonMail](https://www.bugbounty.ch/proton/) | semi-public | selected systems | yes | semi-private incubator to scale up the existing, public program
+[Proton.me](https://proton.me/blog/protonmail-bug-bounty-program) | public | selected systems | |
+[Proton.me](https://www.bugbounty.ch/proton/) | semi-public | selected systems | yes | semi-private incubator to scale up the existing, public program
+[Proton VPN](https://protonvpn.com/blog/bug-bounty-program/) | public | selected systems | |
 [Republik](https://app.gobugfree.com/programs/republik) | public | selected systems | yes |
 [Ringier](https://go.bugbounty.ch/programs) | semi-public | selected systems | yes |
 [Roche](https://hackerone.com/roche) | semi-public | selected systems |  |
