@@ -24,6 +24,7 @@ This listing is best viewed on [github pages](https://antoinet.github.io/swiss-b
 | [SIX Group](https://www.six-group.com/en/company/governance/security.html) | public | organization | yes | |
 | [Swiss Post](https://www.post.ch/en/about-us/responsibility/swiss-post-bug-bounty) | public | selected systems | yes | |
 | [Swisscom](https://www.swisscom.ch/en/about/security/bug-bounty.html) | public | organization | | |
+| [Threema](https://app.gobugfree.com/programs/threema) | public | selected systems | yes | |
 | [TX Group](https://bugcrowd.com/tamedia) | public | selected systems | | US based Legal Safe Harbor |
 
 ## Vulnerability Disclosure Policy
@@ -47,10 +48,13 @@ This listing is best viewed on [github pages](https://antoinet.github.io/swiss-b
 
 | Company / Org | Notes / Comments |
 | ------------- | ---------------- |
+| [Abuse.ch](https://abuse.ch/.well-known/security.txt) | |
 | [Cyon](https://www.cyon.ch/.well-known/security.txt) | |
 | [Digitec](https://www.digitec.ch/.well-known/security.txt) | |
 | [Galaxus](https://www.galaxus.ch/.well-known/security.txt) | |
-| [Hornbach](https://www.hornbach.ch/.well-known/security.txt) | |
+| [Open Systems](https://www.open-systems.com/.well-known/security.txt) | |
 | [Pädagogische Hochschule Zürich](https://phzh.ch/.well-known/security.txt) | |
+| [Quickline](https://www.as15600.net/.well-known/security.txt) | |
 | [SwissAnwalt](https://swissanwalt.ch/.well-known/security.txt) | |
+| [Schwyz (Canton)](https://www.sz.ch/.well-known/security.txt) | |
 | [SWITCH (AS559)](https://www.switch.ch/.well-known/security.txt) | |
