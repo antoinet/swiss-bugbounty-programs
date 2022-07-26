@@ -1,5 +1,7 @@
 This website is an attempt to list open bug bounty and coordinated vulnerability disclosure programs in Switzerland. Feel free to contribute by submitting PRs.
 
+This listing is best viewed on [github pages](https://antoinet.github.io/swiss-bugbounty-programs/).
+
 ## Bug Bounty Program
 Company / Org | Visibility    | Scope        | CH Legal Safe Harbor | Notes / Comments
 ------------- | ------------- | ------------ | -------------------- | ----------------
