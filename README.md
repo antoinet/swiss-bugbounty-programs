@@ -21,9 +21,9 @@ This listing is best viewed on [github pages](https://antoinet.github.io/swiss-b
 | [Ringier](https://go.bugbounty.ch/programs) | semi-public | selected systems | yes | |
 | [Roche](https://hackerone.com/roche) | semi-public | selected systems |  | |
 | [SCIP](https://www.scip.ch/?bugbounty) | public | organization | | |
-| [SIX Group](https://www.six-group.com/en/company/governance/security.html) | public | organization | yes | |
+| [SIX Group](https://www.six-group.com/en/company/governance/security.html) | semi-public | organization | yes | |
 | [Swiss Post](https://www.post.ch/en/about-us/responsibility/swiss-post-bug-bounty) | public | selected systems | yes | |
-| [Swisscom](https://www.swisscom.ch/en/about/security/bug-bounty.html) | public | organization | | |
+| [Swisscom (AS 3303)](https://www.swisscom.ch/en/about/security/bug-bounty.html) | public | organization | | |
 | [Threema](https://app.gobugfree.com/programs/threema) | public | selected systems | yes | |
 | [TX Group](https://bugcrowd.com/tamedia) | public | selected systems | | US based Legal Safe Harbor |
 
@@ -54,7 +54,7 @@ This listing is best viewed on [github pages](https://antoinet.github.io/swiss-b
 | [Galaxus](https://www.galaxus.ch/.well-known/security.txt) | |
 | [Open Systems](https://www.open-systems.com/.well-known/security.txt) | |
 | [Pädagogische Hochschule Zürich](https://phzh.ch/.well-known/security.txt) | |
-| [Quickline](https://www.as15600.net/.well-known/security.txt) | |
+| [Quickline (AS 15600)](https://www.as15600.net/.well-known/security.txt) | |
 | [SwissAnwalt](https://swissanwalt.ch/.well-known/security.txt) | |
 | [Schwyz (Canton)](https://www.sz.ch/.well-known/security.txt) | |
 | [SWITCH (AS559)](https://www.switch.ch/.well-known/security.txt) | |
