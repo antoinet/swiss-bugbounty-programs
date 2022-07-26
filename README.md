@@ -3,9 +3,10 @@ This website is an attempt to list open bug bounty and coordinated vulnerability
 This listing is best viewed on [github pages](https://antoinet.github.io/swiss-bugbounty-programs/).
 
 ## Bug Bounty Program
+
 | Company / Org | Visibility    | Scope        | CH Legal Safe Harbor | Notes / Comments |
 | ------------- | ------------- | ------------ | -------------------- | ---------------- |
-| [20min.ch](https://bugcrowd.com/twentyminuten) | public | selected systems | US based Legal Safe Harbor | |
+| [20min.ch](https://bugcrowd.com/twentyminuten) | public | selected systems | | US based Legal Safe Harbor |
 | [Airlock](https://hackerone.com/airlock) | semi-public | selected systems |  | |
 | [BLS AG](https://app.gobugfree.com/programs/bls/protected) | semi-public | selected systems | yes | |
 | [fidentity AG](https://app.gobugfree.com/programs/fidentity) | public | selected systems | yes | |
@@ -25,6 +26,7 @@ This listing is best viewed on [github pages](https://antoinet.github.io/swiss-b
 | [TX Group](https://bugcrowd.com/tamedia) | public | selected systems | | US based Legal Safe Harbor |
 
 ## Vulnerability Disclosure Policy
+
 | Company / Org | CH Legal Safe Harbor | Notes / Comments |
 | ------------- | -------------------- | ---------------- |
 | [ABB Group](https://global.abb/group/en/technology/cyber-security/alerts-and-notifications) |  | |
@@ -41,6 +43,7 @@ This listing is best viewed on [github pages](https://antoinet.github.io/swiss-b
 
 
 ## security.txt
+
 | Company / Org | Notes / Comments |
 | ------------- | ---------------- |
 | [Cyon](https://www.cyon.ch/.well-known/security.txt) | |
