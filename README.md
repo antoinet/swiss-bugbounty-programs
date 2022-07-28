@@ -7,6 +7,7 @@ This listing is best viewed on [github pages](https://antoinet.github.io/swiss-b
 | Company / Org | Visibility    | Scope        | CH Legal Safe Harbor | Notes / Comments |
 | ------------- | ------------- | ------------ | -------------------- | ---------------- |
 | [20min.ch](https://bugcrowd.com/twentyminuten) | public | selected systems | | US based Legal Safe Harbor |
+| [Abraxas](https://www.bugbounty.ch/hacker/?application_to_program=Abraxas) | semi-public | selected systems | yes | [Public Blog](https://blog.abraxas.ch/de) about their Bug Bounty experiences |
 | [Airlock](https://hackerone.com/airlock) | semi-public | selected systems |  | |
 | [BLS AG](https://app.gobugfree.com/programs/bls/protected) | semi-public | selected systems | yes | |
 | [fidentity AG](https://app.gobugfree.com/programs/fidentity) | public | selected systems | yes | |
@@ -48,6 +49,7 @@ This listing is best viewed on [github pages](https://antoinet.github.io/swiss-b
 
 | Company / Org | Notes / Comments |
 | ------------- | ---------------- |
+| [Abraxas](https://www.abraxas.ch/.well-known/security.txt) | |
 | [Abuse.ch](https://abuse.ch/.well-known/security.txt) | |
 | [Compass Security](https://www.compass-security.com/.well-known/security.txt) | |
 | [Cyon](https://www.cyon.ch/.well-known/security.txt) | |
