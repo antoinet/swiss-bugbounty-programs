@@ -52,6 +52,7 @@ This listing is best viewed on [github pages](https://antoinet.github.io/swiss-b
 | [Cyon](https://www.cyon.ch/.well-known/security.txt) | |
 | [Digitec](https://www.digitec.ch/.well-known/security.txt) | |
 | [Galaxus](https://www.galaxus.ch/.well-known/security.txt) | |
+| [Infomaniak](https://www.infomaniak.com/security.txt) | |
 | [Open Systems](https://www.open-systems.com/.well-known/security.txt) | |
 | [Pädagogische Hochschule Zürich](https://phzh.ch/.well-known/security.txt) | |
 | [Quickline (AS 15600)](https://www.as15600.net/.well-known/security.txt) | |
