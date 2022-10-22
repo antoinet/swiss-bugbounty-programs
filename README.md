@@ -14,7 +14,7 @@ This listing is best viewed on [github pages](https://antoinet.github.io/swiss-b
 | [fidentity AG](https://app.gobugfree.com/programs/fidentity) | public | selected systems | yes | |
 | [GObugfree](https://app.gobugfree.com/programs/bbh) | public | selected systems | yes | |
 | [Just Eat](https://www.just-eat.ch/bugbounty) | public | selected systems | | |
-| [localsearch](https://www.swisscom.ch/en/about/security/bug-bounty.html) | public | organization | | Runs as part of the Swisscom bug bounty program |
+| [localsearch](https://www.swisscom.ch/en/about/security/bug-bounty.html) | public | organization | yes | Runs as part of the Swisscom bug bounty program |
 | [netplus.ch SA](https://app.gobugfree.com/programs/netplus/protected) | semi-public | selected systems | yes | |
 | [Proton.me](https://proton.me/blog/protonmail-bug-bounty-program) | public | selected systems | | |
 | [Proton.me](https://www.bugbounty.ch/proton/) | semi-public | selected systems | yes | semi-private incubator to scale up the existing, public program |
@@ -25,7 +25,7 @@ This listing is best viewed on [github pages](https://antoinet.github.io/swiss-b
 | [SCIP](https://www.scip.ch/?bugbounty) | public | organization | | |
 | [SIX Group](https://www.six-group.com/en/company/governance/security.html) | semi-public | organization | yes | |
 | [Swiss Post](https://www.post.ch/en/about-us/responsibility/swiss-post-bug-bounty) | public | selected systems | yes | |
-| [Swisscom (AS 3303)](https://www.swisscom.ch/en/about/security/bug-bounty.html) | public | organization | | |
+| [Swisscom (AS 3303)](https://www.swisscom.ch/en/about/security/bug-bounty.html) | public | organization | yes | |
 | [Threema](https://app.gobugfree.com/programs/threema) | public | selected systems | yes | |
 | [TX Group](https://bugcrowd.com/tamedia) | public | selected systems | | US based Legal Safe Harbor |
 
