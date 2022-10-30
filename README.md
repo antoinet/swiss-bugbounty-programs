@@ -55,6 +55,7 @@ This listing is best viewed on [github pages](https://antoinet.github.io/swiss-b
 | [Compass Security](https://www.compass-security.com/.well-known/security.txt) | |
 | [Cyon](https://www.cyon.ch/.well-known/security.txt) | |
 | [Digitec](https://www.digitec.ch/.well-known/security.txt) | |
+| [FAIRTIQ](https://fairtiq.com/.well-known/security.txt) | |
 | [Galaxus](https://www.galaxus.ch/.well-known/security.txt) | |
 | [Infomaniak](https://www.infomaniak.com/security.txt) | |
 | [Open Systems](https://www.open-systems.com/.well-known/security.txt) | |
