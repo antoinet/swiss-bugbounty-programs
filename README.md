@@ -63,6 +63,7 @@ This listing is best viewed on [github pages](https://antoinet.github.io/swiss-b
 | [Pädagogische Hochschule Zürich](https://phzh.ch/.well-known/security.txt) | |
 | [Quickline (AS 15600)](https://www.as15600.net/.well-known/security.txt) | |
 | [Redguard](https://www.redguard.ch/.well-known/security.txt) | |
+| [Seantis](https://www.seantis.ch/.well-known/security.txt) | |
 | [SwissAnwalt](https://swissanwalt.ch/.well-known/security.txt) | |
 | [Schwyz (Canton)](https://www.sz.ch/.well-known/security.txt) | |
 | [SWITCH (AS559)](https://www.switch.ch/.well-known/security.txt) | |
