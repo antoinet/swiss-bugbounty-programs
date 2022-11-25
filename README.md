@@ -65,5 +65,7 @@ This listing is best viewed on [github pages](https://antoinet.github.io/swiss-b
 | [Redguard](https://www.redguard.ch/.well-known/security.txt) | |
 | [Seantis](https://www.seantis.ch/.well-known/security.txt) | |
 | [SwissAnwalt](https://swissanwalt.ch/.well-known/security.txt) | |
+| [Swisscanto](https://www.swisscanto.com/.well-known/security.txt) | |
 | [Schwyz (Canton)](https://www.sz.ch/.well-known/security.txt) | |
 | [SWITCH (AS559)](https://www.switch.ch/.well-known/security.txt) | |
+| [Zürcher Kantonalbank (ZKB)](https://www.zkb.ch/.well-known/security.txt) | |
