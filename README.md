@@ -62,6 +62,7 @@ This listing is best viewed on [github pages](https://antoinet.github.io/swiss-b
 | [Pentagrid](https://www.pentagrid.ch/.well-known/security.txt) | |
 | [Pädagogische Hochschule Zürich](https://phzh.ch/.well-known/security.txt) | |
 | [Quickline (AS 15600)](https://www.as15600.net/.well-known/security.txt) | |
+| [Raiffeisen Schweiz Genossenschaft](https://www.raiffeisen.ch/.well-known/security.txt) | |
 | [Redguard](https://www.redguard.ch/.well-known/security.txt) | |
 | [Rolex](https://www.rolex.com/.well-known/security.txt) | |
 | [Seantis](https://www.seantis.ch/.well-known/security.txt) | |
