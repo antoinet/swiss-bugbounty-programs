@@ -21,7 +21,7 @@ This listing is best viewed on [github pages](https://antoinet.github.io/swiss-b
 | [Proton VPN](https://protonvpn.com/blog/bug-bounty-program/) | public | selected systems | | |
 | [Republik](https://app.gobugfree.com/programs/republik) | public | selected systems | yes | |
 | [Ringier](https://go.bugbounty.ch/programs) | semi-public | selected systems | yes | |
-| [Roche](https://hackerone.com/roche) | semi-public | selected systems |  | |
+| [Roche](https://hackerone.com/roche) | semi-public | selected systems | yes | [Hackerone Gold Standard Safe Harbor](https://docs.hackerone.com/organizations/safe-harbor-faq.html) |
 | [SCIP](https://www.scip.ch/?bugbounty) | public | organization | | |
 | [SIX Group](https://www.six-group.com/en/company/governance/security.html) | semi-public | organization | yes | |
 | [Swiss Post](https://www.post.ch/en/about-us/responsibility/swiss-post-bug-bounty) | public | selected systems | yes | |
@@ -64,6 +64,7 @@ This listing is best viewed on [github pages](https://antoinet.github.io/swiss-b
 | [Quickline (AS 15600)](https://www.as15600.net/.well-known/security.txt) | |
 | [Raiffeisen Schweiz Genossenschaft](https://www.raiffeisen.ch/.well-known/security.txt) | |
 | [Redguard](https://www.redguard.ch/.well-known/security.txt) | |
+| [Roche](https://www.roche.com/.well-known/security.txt) | |
 | [Rolex](https://www.rolex.com/.well-known/security.txt) | |
 | [Seantis](https://www.seantis.ch/.well-known/security.txt) | |
 | [SwissAnwalt](https://swissanwalt.ch/.well-known/security.txt) | |
