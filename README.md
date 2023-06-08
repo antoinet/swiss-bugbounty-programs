@@ -11,6 +11,7 @@ This listing is best viewed on [github pages](https://antoinet.github.io/swiss-b
 | [Abraxas](https://www.abraxas.ch/bugbounty) | semi-public | selected systems | yes |  |
 | [Airlock](https://hackerone.com/airlock) | semi-public | selected systems |  | |
 | [BLS AG](https://app.gobugfree.com/programs/bls/protected) | semi-public | selected systems | yes | |
+| [Compass Security](https://bugbounty.compass-security.com/bug-bounties/compass-bug-bounty) | public | organization | yes | |
 | [fidentity AG](https://app.gobugfree.com/programs/fidentity) | public | selected systems | yes | |
 | [GObugfree](https://app.gobugfree.com/programs/bbh) | public | selected systems | yes | |
 | [Hostpoint](https://www.hostpoint.ch/bugbounty/) | public | organization | | |
