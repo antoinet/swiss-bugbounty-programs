@@ -14,6 +14,7 @@ This listing is best viewed on [github pages](https://antoinet.github.io/swiss-b
 | [Compass Security](https://bugbounty.compass-security.com/bug-bounties/compass-bug-bounty) | public | organization | yes | |
 | [fidentity AG](https://app.gobugfree.com/programs/fidentity) | public | selected systems | yes | |
 | [GObugfree](https://app.gobugfree.com/programs/bbh) | public | selected systems | yes | |
+| [Hacking-Lab](https://bugbounty.compass-security.com/bug-bounties/hacking-lab-bug-bounty) | public | organization | yes | |
 | [Hostpoint](https://www.hostpoint.ch/bugbounty/) | public | organization | | |
 | [Just Eat](https://www.just-eat.ch/bugbounty) | public | selected systems | | |
 | [localsearch](https://www.swisscom.ch/en/about/security/bug-bounty.html) | public | organization | yes | Runs as part of the Swisscom bug bounty program |
