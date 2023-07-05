@@ -13,6 +13,7 @@ This listing is best viewed on [github pages](https://antoinet.github.io/swiss-b
 | [BLS AG](https://app.gobugfree.com/programs/bls/protected) | semi-public | selected systems | yes | |
 | [fidentity AG](https://app.gobugfree.com/programs/fidentity) | public | selected systems | yes | |
 | [GObugfree](https://app.gobugfree.com/programs/bbh) | public | selected systems | yes | |
+| [Hostpoint](https://www.hostpoint.ch/bugbounty/) | public | organization | | |
 | [Just Eat](https://www.just-eat.ch/bugbounty) | public | selected systems | | |
 | [localsearch](https://www.swisscom.ch/en/about/security/bug-bounty.html) | public | organization | yes | Runs as part of the Swisscom bug bounty program |
 | [netplus.ch SA](https://app.gobugfree.com/programs/netplus/protected) | semi-public | selected systems | yes | |
@@ -57,6 +58,7 @@ This listing is best viewed on [github pages](https://antoinet.github.io/swiss-b
 | [Digitec](https://www.digitec.ch/.well-known/security.txt) | |
 | [FAIRTIQ](https://fairtiq.com/.well-known/security.txt) | |
 | [Galaxus](https://www.galaxus.ch/.well-known/security.txt) | |
+| [Hostpoint](https://hostpoint.ch/.well-known/security.txt) | |
 | [Infomaniak](https://www.infomaniak.com/security.txt) | |
 | [Open Systems](https://www.open-systems.com/.well-known/security.txt) | |
 | [Pentagrid](https://www.pentagrid.ch/.well-known/security.txt) | |
