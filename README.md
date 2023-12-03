@@ -63,6 +63,7 @@ This listing is best viewed on [github pages](https://antoinet.github.io/swiss-b
 | [Hacking-Lab](https://hacking-lab.com/.well-known/security.txt) | |
 | [Hostpoint](https://hostpoint.ch/.well-known/security.txt) | |
 | [Infomaniak](https://www.infomaniak.com/security.txt) | |
+| [International Labour Organization](https://ilo.org/.well-known/security.txt) | |
 | [Open Systems](https://www.open-systems.com/.well-known/security.txt) | |
 | [Pentagrid](https://www.pentagrid.ch/.well-known/security.txt) | |
 | [Pädagogische Hochschule Zürich](https://phzh.ch/.well-known/security.txt) | |
@@ -75,5 +76,6 @@ This listing is best viewed on [github pages](https://antoinet.github.io/swiss-b
 | [SwissAnwalt](https://swissanwalt.ch/.well-known/security.txt) | |
 | [Swisscanto](https://www.swisscanto.com/.well-known/security.txt) | |
 | [Schwyz (Canton)](https://www.sz.ch/.well-known/security.txt) | |
+| [Swissquote Bank](https://en.swissquote.com/.well-known/security.txt) | |
 | [SWITCH (AS559)](https://www.switch.ch/.well-known/security.txt) | |
 | [Zürcher Kantonalbank (ZKB)](https://www.zkb.ch/.well-known/security.txt) | |
