@@ -37,6 +37,7 @@ This listing is best viewed on [github pages](https://antoinet.github.io/swiss-b
 | Company / Org | CH Legal Safe Harbor | Notes / Comments |
 | ------------- | -------------------- | ---------------- |
 | [ABB Group](https://global.abb/group/en/technology/cyber-security/alerts-and-notifications) |  | |
+| [Abraxas](https://www.abraxas.ch/de/vdp/) | yes | |
 | [Bexio](https://www.bexio.com/en-CH/policies/responsible-disclosure-policy) |  | |
 | [Cern](https://home.cern/sites/home.web.cern.ch/files/security.txt) |  | |
 | [Covid-19 certificate system](https://www.ncsc.admin.ch/ncsc/en/home/dokumentation/covid-certificate-pst/infos.html) | yes | |
@@ -47,7 +48,6 @@ This listing is best viewed on [github pages](https://antoinet.github.io/swiss-b
 | [Shift Crypto](https://shiftcrypto.ch/policies/bug-bounty-policy/) |  | |
 | [Swiss Government](https://www.ncsc.admin.ch/ncsc/en/home/infos-fuer/infos-it-spezialisten/themen/schwachstelle-melden.html) |  | |
 | [SwissCovid Proximity Tracing System](https://www.ncsc.admin.ch/ncsc/en/home/dokumentation/covid-public-security-test/infos.html) | yes | |
-
 
 ## security.txt
 
