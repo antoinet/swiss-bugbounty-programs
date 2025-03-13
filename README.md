@@ -40,6 +40,7 @@ This listing is best viewed on [github pages](https://antoinet.github.io/swiss-b
 | [Bexio](https://www.bexio.com/en-CH/policies/responsible-disclosure-policy) |  | |
 | [Cern](https://home.cern/sites/home.web.cern.ch/files/security.txt) |  | |
 | [Covid-19 certificate system](https://www.ncsc.admin.ch/ncsc/en/home/dokumentation/covid-certificate-pst/infos.html) | yes | |
+| [Digitec](https://www.digitec.ch/security)/[Galaxus](https://www.galaxus.ch/security) | yes | |
 | [EBU](https://www.ebu.ch/about/contact-us/vulnerability-disclosure) |  | |
 | [Kistler](https://www.kistler.com/en/vulnerability-disclosure-policy/) | yes | |
 | [Nexthink](https://www.nexthink.com/responsible-disclosure-policy/) |  | |
